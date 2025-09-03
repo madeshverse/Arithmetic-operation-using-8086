@@ -70,9 +70,9 @@ END
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
-<img width="639" height="398" alt="Screenshot 2025-08-30 092240" src="https://github.com/user-attachments/assets/225f1df6-69bb-46e6-b780-13f857cb5475" />
+![WhatsApp Image 2025-09-03 at 11 38 08_f03bb020](https://github.com/user-attachments/assets/b508fba2-3d9c-47d1-a38c-279363ad7c29)
 
-<img width="658" height="413" alt="Screenshot 2025-08-30 092600" src="https://github.com/user-attachments/assets/62c14c68-8ab6-477d-99fc-06c7a297eddf" />
+![WhatsApp Image 2025-09-03 at 11 24 19_df263d54](https://github.com/user-attachments/assets/da3aa2c4-8385-4052-ac11-97ea887e7dc8)
 
 
 ## 2. SUBTRACTION
@@ -112,8 +112,11 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
-<img width="651" height="385" alt="Screenshot 2025-08-30 093222" src="https://github.com/user-attachments/assets/c70762a8-40e7-4c56-8eb6-53031e6c5be5" />
-<img width="635" height="410" alt="Screenshot 2025-08-30 093121" src="https://github.com/user-attachments/assets/d86e6ae2-92a5-4bf4-8459-b6a8e2cdf225" />
+![WhatsApp Image 2025-09-03 at 11 47 29_a4c3157f](https://github.com/user-attachments/assets/558034f1-c1a1-47b8-a39b-b95d4d8c46fe)
+
+![WhatsApp Image 2025-09-03 at 11 45 44_2f13076c](https://github.com/user-attachments/assets/4193e600-b9dc-486f-b6e7-33643bbf99c5)
+
+
 
 ## 3. MULTIPLICATION
 
@@ -166,9 +169,11 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
- <img width="552" height="328" alt="Screenshot 2025-08-30 093434" src="https://github.com/user-attachments/assets/785b5129-1bf6-4b6c-a461-ef885a697f9c" />
+![WhatsApp Image 2025-09-03 at 12 07 02_de090899](https://github.com/user-attachments/assets/0c2280fb-8575-417b-8b28-06eb8b9b396b)
 
-  <img width="660" height="411" alt="Screenshot 2025-08-30 093647" src="https://github.com/user-attachments/assets/4c691dfa-a0ac-4df4-90ba-c68c4620f470" />
+
+![WhatsApp Image 2025-09-03 at 12 06 02_fabd3ddb](https://github.com/user-attachments/assets/a995837e-5bd3-4626-a975-9dc31d895d88)
+
 
 ## 4. DIVISION
 
@@ -219,8 +224,10 @@ END
 ## OUTPUT FROM MASM SOFTWARE
 
 
-<img width="635" height="338" alt="Screenshot 2025-08-30 093945" src="https://github.com/user-attachments/assets/9db0ac03-8acd-4d11-af7f-b0e01fe43c3f" />
-<img width="655" height="411" alt="Screenshot 2025-08-30 094212" src="https://github.com/user-attachments/assets/e620def0-02e9-463d-872f-ced8e1d532cf" />
+![WhatsApp Image 2025-09-03 at 12 01 14_8007b00b](https://github.com/user-attachments/assets/01f9df93-9937-4b47-b607-73754b2f0846)
+
+![WhatsApp Image 2025-09-03 at 12 06 23_7d48eb9b](https://github.com/user-attachments/assets/a869918c-9446-4930-9dfc-2ee626444287)
+
 
 
 ## RESULT
